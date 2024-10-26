@@ -1,43 +1,41 @@
 ## Attributes + Skills
 
-* STR 8 (-1)
-** Save: -1
-** Athletics (+1 half-proficiency): +0
+* **STR** 8 (-1)
+  ** Save: -1
+  ** Athletics (+1 half-proficiency): +0
 
-* DEX 14 (+2)
-** Save (proficiency): +5
-** Acrobatics (+1 half-proficiency): +3
-** Sleight of hands (+1 half-proficiency): +3
-** Stealth (+3 proficiency): +5
+* **DEX** 14 (+2)
+  ** Save (proficiency): +5
+  ** Acrobatics (+1 half-proficiency): +3
+  ** Sleight of hands (+1 half-proficiency): +3
+  ** Stealth (+3 proficiency): +5
 
-* CON 10 (0)
-** Save: +0
+* **CON** 10 (0)
+  ** Save: +0
 
-* INT 14 (+2)
-** Save: +2
-** Arcana (+1 half-proficiency): +3
-** History (+1 half-proficiency): +3
-** History (+3 proficiency): +5
-** Nature (+1 half-proficiency): +3
-** Religion (+1 half-proficiency): +3
+* **INT** 14 (+2)
+  ** Save: +2
+  ** Arcana (+1 half-proficiency): +3
+  ** History (+1 half-proficiency): +3
+  ** History (+3 proficiency): +5
+  ** Nature (+1 half-proficiency): +3
+  ** Religion (+1 half-proficiency): +3
 
-* WIS 13 (+1)
-** Save: +1
-** Animal Handling (+1 half-proficiency): +2
-** Insight (+6 expertise): +7
-** Medicine (+1 half-proficiency): +2
-** Perception (+3 proficiency): +4
-** Survival (+1 half-proficiency): +2
+* **WIS** 13 (+1)
+  ** Save: +1
+  ** Animal Handling (+1 half-proficiency): +2
+  ** Insight (+6 expertise): +7
+  ** Medicine (+1 half-proficiency): +2
+  ** Perception (+3 proficiency): +4
+  ** Survival (+1 half-proficiency): +2
 
-* CHA 14 (+4)
-** Save (proficiency) +7
-** Deception (+3 proficiency): +7
-** Intimidation (+1 half-proficiency): +5
-** Performance (+3 proficiency): +7
-** Persuasion (+6 expertise): +10
+* **CHA** 14 (+4)
+  ** Save (proficiency) +7
+  ** Deception (+3 proficiency): +7
+  ** Intimidation (+1 half-proficiency): +5
+  ** Performance (+3 proficiency): +7
+  ** Persuasion (+6 expertise): +10
 
-* ADV against being charmed and magic can't put me to sleep (Half-Elf - Fey Ancestry)
-* Darkvision: 60ft
 * **HP:** 28 (5d8, avg 5)
 * **INITIATIVE:** +3
 * **AC:** 13 (leather jacket)
@@ -46,6 +44,8 @@
 * **PASSIVE INSIGHT**: 17
 * **PASSIVE PERCEPTION**: 14
 * **PASSIVE INVESTIGATION**: 15
+* ADV against being charmed and magic can't put me to sleep (Half-Elf - Fey Ancestry)
+* Darkvision: 60ft
 
 ## Feats
 
