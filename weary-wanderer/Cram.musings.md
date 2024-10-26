@@ -4,3 +4,14 @@ He puts the head of the wolf aside in a corner before moving into the kitchen to
 Cram was told little about the World As It Should Be, but he has seen it reflected in visions sent by his patron, god of the Duyshidakk. He saw a city that is almost like a living entity, always in movement, with temporary constructions being assembled and disassembled by the moment as the need for wood or rock arrise. Violent conflicts and challenges pop up everywhere but are resolved quickly and the parties just move on, with no resentment from the losing side and no abuse on the winning side as they understand this is the way to live. No law enforcement is seen on such a society, no central goverment enforcing their will upon the population through oppresive ways.
 
 Such vision vanishes from Cram mind as the soup ends. We are not there yet - oppression is still seen everywhere and still cuts short the lives of countless people. More work needs to be done to build such a World as in the vision. Work for tomorrow. Now to take a bath and to bed, as certainly the group will be back to pick up new quests from the board soon and Cram will then join in for another round.
+
+# Session 14
+
+Weary wanderer empty more than usual, 2 groups and old man in chair. Cram finally press the button, and after some shenanigans we finally go to the pirate adventure.
+
+Captains log had that they left the Facon's Rest 4 days ago and are going to the Kingdom of XYZ where the quest with the troll on the bridge.
+
+Every time we touched the wheel enemies appeared and disappeared after a while. Some of us tried to destroy the wheel, which made enemies stop appearing, but when the wheel was mended again they came back and the group destroyed the wheel (again!).
+
+The only sane solution (in Cram mind) was to get rid of the cursed wood, so he proceeded to collect the wheel pieces with the intention to throw them at the sea. Unfortunately Cram is not the best comunicator, so he didn't check with the group if such intention was shared - he just did what he had to do with his mind stuck on the cursed wood problem. Therefore the group proceeded to stop Cram and the blood cleric in particular took particular pleasure in his endeavor. When attacked, Cram trying to dodge and in the confusion some pieces of wood were thrown offboard. A new wheel was assembled from the wood from other parts of the ship and the travel continued, without curses activating, to Riven-something, where more enemies apparently await us.
+
