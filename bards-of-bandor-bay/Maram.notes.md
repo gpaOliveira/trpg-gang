@@ -47,6 +47,22 @@ We go up after that, too tired to continue, eager for a bath, a decent meal, and
 
 On the next day, Maram shared the podium's plaque inscriptions with Aelarion in the hopes the man recognises the writings - after all, such runes are all over the man basement. Also, Maram asks Dagmar to identify the (power-ranger) daggers' powers, given her abilities to recognise magic items.
 
+# Letter 3
+
+Carter gave us more info about Bandor Bay (despite the lack of water) - there was a civilisation where the water is now. There was a lake where the swamp is now and the veiled forrest was bigger than today. Carter doesn't know more about such civilisaton, but since the language in the map is old-draconic, it's safe to assume their identity.
+
+The satyr Thallen is still with us, eager to go home back to the Lady of Wind (?).
+
+Pierre check on the pixies and, surprise, they're alive. He puts a finger in the box and is bitten, so lord knows what will happen now.
+
+We go down the basement again, to find out more secrets. In the library, Desideroo found a interesting book written in draconic and unknown-language, a legal text. That can help us discover more about the other books, hopefully. The laws written there are for the country or city of Ninziir.
+
+Pierre uses one of the power-rangers-dagger to take some pieces out of the king and the wizard: a spectator wounding eye-stock (necrotic damage). The smaller rooms contains more armor/weapons.
+
+In the next level we find lizard-like green creatures - Pierre plays around with cards and potions and a big golden stair golden appears. Luckily the glass-golem and Desiderio are more efficient. After some sparring, Pierre, blinded due to his allies magic, make a good hit on enemy A. After all the trouble a physic wave hit us all and we are all in the ground for long - Desiderio tries to move us away to the stairs by
+
+A mind-flayer creature with back cloak and high collar comes towards us. Using his mighty stare, Desiderio keeps it at bay. The creature tells us telepatically to move away from this place because we are in the territory of <imcomprehensible-noises>. By talking to the creature, it reveals a orbe that it's holding...
+
 # References
 
 ## People from the League of Illumination

@@ -20,6 +20,7 @@
   ** History (+3 proficiency): +5
   ** Nature (+1 half-proficiency): +3
   ** Religion (+1 half-proficiency): +3
+  ** Investigation (+3 proficiency): +5
 
 * **WIS** 13 (+1)
   ** Save: +1
@@ -29,14 +30,14 @@
   ** Perception (+3 proficiency): +4
   ** Survival (+1 half-proficiency): +2
 
-* **CHA** 14 (+4)
+* **CHA** 18 (+4)
   ** Save (proficiency) +7
   ** Deception (+3 proficiency): +7
   ** Intimidation (+1 half-proficiency): +5
   ** Performance (+3 proficiency): +7
   ** Persuasion (+6 expertise): +10
 
-* **HP:** 28 (5d8, avg 5)
+* **HP:** 33/33 (6d8, avg 5)
 * **INITIATIVE:** +3
 * **AC:** 13 (leather jacket)
 * **SPEED:** 30ft
@@ -96,7 +97,7 @@ If you or any friendly creatures who can hear your performance regain hit points
 
 **Uses: [ ] [ ] [ ] [ ] (CHA modifier)**
 
-Bonus action, 1d6 die, 60feet (hear you), 10min, can use in attack-roll/ability-check/saving-thrown
+Bonus action, **1d8** die, 60feet (hear you), 10min, can use in attack-roll/ability-check/saving-thrown
 
 Recover all with a short or long rest.
 
@@ -112,11 +113,27 @@ Whenever you give a creature a Bardic Inspiration die, you can create a mote in 
 * Saving Throw. HP = Bardic Inspiration die + 3
 
 ### Bard College of Creation: Performance of creation
-Action, produce anything nonmagical Medium within 10ft in a surface or liquid to support, gp value 100gp max (20x-bard-level-5). Duration 3 hours (proficiency bonus)
+Action, produce anything nonmagical Large (lvl6) within 10ft in a surface or liquid to support, gp value 120gp max (20x-bard-level-6). Duration 3 hours (proficiency bonus)
 
-1x/long rest, recover with spell 2nd+ level
+**Uses: [ ] recover with spell 2nd+ level**
 
-**Uses: [ ]**
+### Bard College of Creation: Animating Performance
+
+https://dnd5e.wikidot.com/bard:creation
+
+Dancing Item (up to Large) for 1 hour, until it is reduced to 0 hit points, or until Maram die.
+
+* Armor Class: 16 (natural armor)
+* Hit Points: 40 (bard lvl6 multiplied by 5 + 10)
+* Speed: 30 ft., fly 30 ft. (hover)
+* Attack: Force-Empowered Slam. Melee Weapon Attack: +7 hit (CHA + PB), reach 5 ft., one target you can see. Hit: 1d10 + 3 (PB) force damage.
+* Damage Immunities: poison, psychic
+* Condition Immunities: charmed, exhaustion, poisoned, frightened
+* Senses: darkvision 60 ft., passive Perception 10
+* Immutable Form. The item is immune to any spell or effect that would alter its form.
+* Irrepressible Dance. When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't incapacitated.
+
+**Uses: [ ] recover with spell 3nd+ level**
 
 ## Bard: Spells
 
@@ -159,9 +176,10 @@ Reference: https://rpgbot.net/dnd5/characters/classes/bard/spells/
 
 ### 3nd Level
 
-**Uses: [ ] [ ]**
+**Uses: [ ] [ ] [ ]**
 
 * [(8) Enemies Abound](https://dnd5e.wikidot.com/spell:enemies-abound) - Action - 120ft - INT save 14 - D: 1m, V/S
+* [(9) Dispel Magic](https://dnd5e.wikidot.com/spell:dispel-magic) - Action - 120ft - V/S
 
 **Upslot:**
 * [(2) Healing Word](https://dnd5e.wikidot.com/spell:healing-word) - Bonus - 60ft - 3d4+4 - V

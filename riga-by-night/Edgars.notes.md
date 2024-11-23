@@ -51,3 +51,26 @@ Also, to handle the blogger/photo situation, he calls Audrey to share an idea. E
 Finally, he spends more time in the next days checking his personal library (in the haven) and also calling other city libraries. He starts to collect any piece of information about end of the world predictions involving Riga over the centuries.
 
 A couple days later, he calls Eric again (a retired cop, and member of his "book club", with a flair for misteries and a collection of Agatha Cristie books) to check in on his request to identify the person he "found" dead on the street.
+
+# Session 3
+
+- James (Frankie)
+- Felix (Eric)
+- Yoji (Gaspar)
+- Gaspar (Andrei, sire of Audrey)
+
+Last night we were called to report to Misha our progress on the vial hunt (apparently Rigard answers to him). I was busy plotting with Nikita a way to handle the blogger issue - the best idea so far is to feed her a better story, so Rigard will be called to provide an enemy to target and information we can leak to the blogger (an american named Sarah). Audrey is away handling her human input, Emily; James got fed blood bags by Nikita; and Dr Felix learned the hospital have a new middle-eastern investor - the same monk that visited Anastasia. Also, Gaspar joined us, a posh Westerner that apparently is admired by Audrey's sire.
+
+Before going to Misha's place, Nikita lead us to an airfield where a bunch of cars were doing illegal runs. In such GTA inspired setting, we were lead by Nikita to a gundealer mortal, who offered Felix some guns from a trunk. A revolver is bought for $200.
+
+We then finally proceed to Misha place, in a hippie area in the center of the city near the central-market. In a gym, awfully crowded at this time at night, we found Russian minions and Misha's office.
+
+By talking about the vial to Misha, the Prince enforcer (who carries a large crucifix, so James liked him right away), we learned the blood hunt is still on as the thief is still in the wild. We also got to know that the harbors have been closed for weeks now, more than one warehouse exploded, and thus the Prince is not happy with Anastasia due to such undesired attention. We got interrupted by a minion reporting that some other Misha's gym was attacked, maybe by Anastasia people (we just heard they were buffed people).
+
+We come back to the university to look for clues on what could be explosives, to have proof they were being built by Misha's man in some kind of plan to undermine Anastasia - however, Nikita have already told Anastasia about such suspicion when he came to fetch Audrey and James and Felix the other night, hence why Anastasia now may be attacking Misha's gyms. In any case Dr Felix was very useful to lockpick and to recognise the chemicals that were there as being indeed used in explosives, but a component was missing (one he couldn't quite guess).
+
+With such war raving in the streets, we've used the rest of the night to brainstorm ways forward - none was put together or chosen so far. Shall we go to Anastasia, empty handed with nothing to offer, and offer our services and expose Misha? Shall we investigate the other bruned warehouses in search for more clues to offer Anastasia? Or shall we listen to the suggestion of the French musician that just joined us?
+
+# References
+
+Map:  https://snazzymaps.com/embed/644828
