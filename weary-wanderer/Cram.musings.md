@@ -9,9 +9,40 @@ Such vision vanishes from Cram mind as the soup ends. We are not there yet - opp
 
 Weary wanderer empty more than usual, 2 groups and old man in chair. Cram finally press the button, and after some shenanigans we finally go to the pirate adventure.
 
-Captains log had that they left the Facon's Rest 4 days ago and are going to the Kingdom of XYZ where the quest with the troll on the bridge.
+Captains log had that they left the Falcon's Rest 4 days ago and are going to the Kingdom of XYZ where the quest with the troll on the bridge.
 
 Every time we touched the wheel enemies appeared and disappeared after a while. Some of us tried to destroy the wheel, which made enemies stop appearing, but when the wheel was mended again they came back and the group destroyed the wheel (again!).
 
 The only sane solution (in Cram mind) was to get rid of the cursed wood, so he proceeded to collect the wheel pieces with the intention to throw them at the sea. Unfortunately Cram is not the best comunicator, so he didn't check with the group if such intention was shared - he just did what he had to do with his mind stuck on the cursed wood problem. Therefore the group proceeded to stop Cram and the blood cleric in particular took particular pleasure in his endeavor. When attacked, Cram trying to dodge and in the confusion some pieces of wood were thrown offboard. A new wheel was assembled from the wood from other parts of the ship and the travel continued, without curses activating, to Riven-something, where more enemies apparently await us.
 
+# Session 15
+
+Fairly colder and quiet in the city of Riverton, no people around - like first frost.
+
+When meeting Hazel (red head bandit, she is an ally of the Fey Mother), a random mummy appear in front of Holy and ask "give the box back", and after our confusion the mummy speaks in Celestial "fall" and Kellan (the werewolf bandit friend of Holly) is reduced to dust. The random mummy is know as the Sandman, a NPC some of us have seen before (and also the sand of his passage along multiple places).
+
+Under the cries of Hazel saying "that was not the plan", we roll innitiative. Hazel turns a hourglass and the mummy becomes more invicible - no damage is made to it. Trying to damage the hourglass cracked it, but it didn't destroy it. The mummy guy was always attacking the one with the box, but not everyone else. In the end we manage to pick up the hourglass, put in the bag oh holding, and that allow us to defeat the mummy.
+
+After the combat we talk with Hazel to discover the Fey Mother wants to recruit us - she offers nothing and says Danny and the Weary Wanderer have stolen our souls and are using us so we should join forces with the Fey Mother just because. Inside the box there's a contract between Danny's father (Athan) and the Fey Mother to.... do something... Hazel doesn't believe this is the real world also
+
+# Session 16
+
+Dani had been forgetting things, which is weird - apparently we have been 2 weeks ago in the Weary Wanderer. We told him we've been stumbling into his father (the sandman, who was powers to control time apparently) in many quests. He has been unaware of it, and of the Fey mother.
+
+Dani doesn't know the old guy (name Seth, which is also the creator of the hourglass we found last session). Btw the old guy is not around the Weary Wanderer this time.
+
+Apparently Dani found the weary wanderer inn before finding his father (!!). Running theory is that, maybe, Dani is the past version of the Sandman/Athan, so we took a vial of Dani's blood to use it later for "tracking his father". Analyzing the blood, it points to 4 different sources, 3 of them in other planes.
+
+Trying to see places with such a blood vial allow Eric's character to see from the eyes of some people. The first is a guy looking at a fireplace, in a comfy room, sipping something brown from his glass.
+
+Whithout much to do we go outside to walk outside and explore the river and the begonies flowers. We can't seem to get closer to the river, but going backwards we get to it. Putting the hand on the river the Paladin see memories of our adventures. A lady comes from there and ask us for a thing called password - we ofc don't know (we tried Danny and Admin and Seth). The lady says the alarm is on and attack us.
+
+After the battle is over we are all sticking our hands on the river (Cram jumped in). Some visions are when Danny was going throuh the flowers and found the inn, or when Athan was in the front of the river and cast a spell and the lady appear, or when the contract was signed, or a scene with all of us near the river.
+
+# Session 17
+
+Cram skipped but ppl discovered the quests reset.
+
+# Session 18
+
+Shenanigans in the basement with a spell book from Hazel and time-crystals from Ignarok (?) lead to a female voice to say "we finally meet" 

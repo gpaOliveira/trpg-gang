@@ -63,6 +63,72 @@ In the next level we find lizard-like green creatures - Pierre plays around with
 
 A mind-flayer creature with back cloak and high collar comes towards us. Using his mighty stare, Desiderio keeps it at bay. The creature tells us telepatically to move away from this place because we are in the territory of <imcomprehensible-noises>. By talking to the creature, it reveals a orbe that it's holding...
 
+# Letter 4
+
+Sephyrella wants us to figure out why the swamp is growing and invading the forest. She gave us a branch that point us to the evil there.
+
+Before leaving, Maram did ask Zephyrella for a flock of her hair, which he carefully packed in a small bottle. Darisu, a bronze dragon, is missing - which is important to Desideroo for some reason. In any case, we are magically transported to the edge of the swamp.
+
+After walking a while we find some ruins. Large concentric glass rings are seen, and a pedestal, similar to the one we saw on the basement of the manor, with fainting glowing blue runes. We can't do much to open the portals there. We are attacked by Zerkes, a fish person, that apparently is possessed by a old dragonborn from a time when Ninziir was still up.
+
+We go around Kafford as the fish-person (Zerkes) is afraid of villagers there. We find a frong jumping around (Alfric), looking for something, and a voice is calling it - a man with an eye patch (Giles Fishy) is seen, who says he is a truffle hunter. Maram pay 5gp for a truffle and it doesn't taste as it should - probably need to be preparred better. He points to a shipwreck, where may be ghosts.
+
+We got a wand from him (actually he went to the disco dimension and we stole it).
+
+Aroud the shipwreck there are swamp gases, and a transparent dome is envolving it. The pirate among us recognise it as a merchant ship, an old fashioned one, in bad condition, still with a deck tough.
+
+While talking we recognise the fish-man (who is also a dragonborn) recognise the very old map we found on the basement as being "recent" to her. She is from Naizzar, a realm lost long ago which is now under the sea.
+
+In a gas vampire form, Dagmar scout the shipwreck. Two imps are seen, but she ignores them at first and continues. There's a battle ongoing there, silvery shapes fighting between themselves, dragonborn ghosts fighting devils' ghosts. Standing tall behind the devil's we have a infernal guy in full armor, taller than the others, a more imposing figure than all others, fighting Dragonborns with fire.
+
+We go talk with the Imps, who apparently are friends of Pierre and Dagmar. And the big devil in the battle is Dagmar's patron. The imps are friendly enough and say we can explore around.
+
+We go to the ship, around the de-saturation dome (things look less visible there). We fail to convince the devil's ghosts that we were supposed to be there (Dagmar firmly believes this, for some reason) and they attack (strangely enough the dragonborn ghosts are nowhere to be seen lol).
+
+During the fight, I managed to bring one broken mast to life - it was huuuge! Probably some combination between my creation song and the swamp gas allowed that to happen. After a while I notice a brillhant orb (memory projection) on the top of a still intact mast that may be the reason why all those ghosts are here - the construct tries to break the mast, Dagmar tries to break the orb, but in the end a inspiring kick from Deisderoo bring it down finally. Once the ghosts are gone Dagmar explain to us what we forgot (the time dimension and all decepcion with the gold they bribed us with) and we go to find the artefact that brought Zerkes back to life - a glass donut. They don't want to touch it, but we put it on the bag of holding for later.
+
+Dragonborn ghosts come back and realise they're free, turn into specks of coloured light (like the disco dimension) and they say thank you to us. The mist dissipate, the ship start to crumble, and a rumbling mechanical noise is heard even after it collapses. The ghostly remains of the ship stay in corporeal form. It even listen to our commands!
+
+Investigating the ship Deisderoo find ghost parrots and maps (like we have found before, from Naizzar, with places written in draconic and with 5 symbols in some pattern we don't know). In the map, this swamp used to be a forest. Thorugh the forest there's a river that goes to the northeast (which is now a desert, but it's outside the range of the map). We also find a staff of end-less confetti. While trying to identify the wand, Dagmar felt something wrong with that item but she managed to recognise it as a wand of summoning wands.
+
+For absolutely no reason (other than to solve all threads), we go visit Castor in the north western corner of the Verdant realm in a place called Squirrel's folly, where we arrive at ten past midnight. It's a small village, lit by moonlight and occasion torches. We see accorns and squirrels everywhere, in statues and whatnot. There's an oak tree in the middle, with images of more squirrels. There's a street market (now empty) in between cobblestone streets.
+
+We park the ship 50ft above the ground and leave the imps there, very commited to a nail in some corner, and leave to the nearest tavern, the accord's delight.
+
+There's a large spire outside the village, the Accorn spire, Castor Wispwhirl lives there. The innkeeper says he is a lovely fellow and everybody likes him, spending his time with his experiments. Villagers are simple folks and we hear about their routines and gossip around them. He also shared the story on how Castor was spelled from the university due to some experiment that went wrong.
+
+As we walk through the village we see the market stalls coming together, selling squirrel and acorn related stuff. We also go to buy some potions.
+
+The spire seems glass like and filled with runes, and there are some branches growing, and carvings in the shape of accorns. When we know a man with dark brown hair, blue eyes, and green robes appear.
+
+Maram found books and things from the academia, heraldy, coloured scarfs (green and blue)
+
+# Letter 5
+
+Something heavy passed by here, we see marks on the ground. And a devil waiting for us - and Jack is around.
+
+Alchemy is unpopular, most ppl like Conjuration, Illusion is seen as weak and silly.
+
+# Session 12
+
+Since the village is up with snow in the middle of summer, Castor tell us to use the prism (from somewhere?) to help them. The weird weather apparently is due to an old prophecy of something deep in the ocean that was supposed to keep the world from freezing but that device somehow was destabilised when the water evaporated (thanks to Dagmar wish that removed 20% of the water of the oceans).
+
+# Session 13
+
+Portal shenanigans to League of Ilumination to ask about the freezing and the wish from Dagmar.
+
+Other members went to Verdant Realm.
+
+Apparently there's an spire in the middle of the ocean that we have to investigate for the colder temperature.
+
+In the spire, room has dark marble and have some luminous moss. We see skeletons around (some dragonborns, some others), and some cubes with circular doors.
+
+Small trinkets, fishbones, seashells. Music comes by one path, but we do a long rest and all is fine.
+
+When we wake up we play our own music and follow the path to where the music is coming from. Through a corridor we pass by a door in the left, some pointing arrows, with something written on top. The arrow from the direction we slept is called a cleansing place, and the arrow towards the music is a chappel place. Other arrows point towards a defense place, healing place, and a heatness adjustment chamber (probably the one we'll investigate later).
+
+The music is coming from a multicolored glass door. Bioluminescense blue moss is brightening the place, and it seems to be a chappel of some sort (altar, chandeliers, all shebang made of glass). No living creatures are seen, the music seems to come from everywhere. There are skeleteons.
+
 # References
 
 ## People from the League of Illumination
@@ -105,3 +171,5 @@ On the manor of Aelarion Starwind, in the middle of the spooky forest, we found 
 * coins/gems found on Session 4 - 291gp for the group
 
 * coins/gems found on Session 5 - 500 gp for each member
+
+* truffle - 2500 each

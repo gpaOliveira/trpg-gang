@@ -45,3 +45,23 @@ Preferences:
 * GRENADES (1 Load, 2 Uses): EMP / GAS / STUN / INCEND. / FRAG.
 * DEMOLITION TOOLS (2 Load)
 * MICROTRONICS TOOLS (1 Load)
+
+## Stress
+
+* [X] [] [] [] [] [] []
+
+## Notes
+
+City: Miller the beer
+
+We're called by Jan (a Marketing higher up) to meet at a Cafe near the central office. Around the cafe we see some shops selling clothes and stuff, nothing unusual.
+
+Jan is a man in his early 30s, has a very professional cab, full suit, feels like he just stepped out a board meeting. He is very composed waiting for us. They built a AI looking to have it creating content for our beer advertisement - but the AI got away, it thinks it's Santa, and took control of the building security measurements.
+
+The naughty people in the office were dealt with swiftly. Nice people were led out. Maybe some survivors are there? We don't know.
+
+Top floors maybe have ppl?
+
+Movement seen on 7th floor. Offices from the 2nd to the 10th floor. On the 11th there are offices for such executives. 13th and 12th floor are where the access between buildings are and where executives live.
+
+In the 7th foor we find Mary, James, and Evan to go to the 12th floor.
